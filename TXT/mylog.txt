@@ -11,9 +11,14 @@ ZCZC W00  80 L08 Trying something
 ZCZC W01 115 L02 ZOOM related
 ZCZC W01  90 L04 GitHub Pages: ATM ckbkadal
 ZCZC W01  30 L05 GSGS related
+ZCZC W01  45 L06 Reading Reference/Books/Documents
+ZCZC W01  10 L08 Trying to access kawung
 ZCZC W01 150 L11 Assignment #1
 ZCZC W01  30 L12 Assignment #2
 ZCZC W01  30 L13 Assignment #3
 ZCZC W01  20 L14 Assginemnt #4
 ZCZC W01  10 L15 Assignment #5
 ZCZC W01  10 L16 Assignment #6
+ZCZC W01  30 L17 Assignment #7
+ZCZC W01  60 L18 Assignment #8
+ZCZC W01  35 L22 Youtube: study, etc.
