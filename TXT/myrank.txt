@@ -18,3 +18,6 @@ ZCZC W04 luthfifahlevi
 ZCZC W05 mackarelfish
 ZCZC W05 luthfifahlevi
 ZCZC W05 MarioSerano
+ZCZC W06 machffud
+ZCZC W06 mackarelfish
+ZCZC W06 marcianadin
