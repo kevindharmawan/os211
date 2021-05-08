@@ -89,3 +89,12 @@ ZCZC W07  30 L14 Assignment #4
 ZCZC W07   5 L15 Assignment #5
 ZCZC W07   2 L16 Assignment #6
 ZCZC W07  30 L22 Youtube: study
+ZCZC W08  40 L01 SCELE related
+ZCZC W08 205 L02 ZOOM related
+ZCZC W08  75 L05 GSGS related
+ZCZC W08  30 L11 Assignment #1
+ZCZC W08 120 L12 Assignment #2
+ZCZC W08 300 L13 Assignment #3
+ZCZC W08  10 L14 Assignment #4
+ZCZC W08   5 L15 Assignment #5
+ZCZC W08   2 L16 Assignment #6
